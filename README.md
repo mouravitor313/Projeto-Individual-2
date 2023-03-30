@@ -2,7 +2,7 @@
 
 ******************************************************************************************************************************
 ## Detalhes do projeto:
-riar uma entidade chamada “relatórios”. Essa 
+Criar uma entidade chamada “relatórios”. Essa 
 entidade vai armazenar a data de compilação dos 
 dados e garantir um histórico de quais tecnologias as 
 empresas estavam usando no momento que a Resilia 

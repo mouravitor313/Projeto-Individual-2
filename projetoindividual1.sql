@@ -36,9 +36,11 @@ SET semestre = '2ºSemestre'
 WHERE Data BETWEEN '2023-07-01' AND '2023-12-31';
 
 INSERT INTO Empresas (id, endereco, num_alunos, area)
-VALUES (1, 'Rua A, 123', 50, 'Tecnologia da Informação');
+VALUES (1, 'Rua Alameda 3, 313', 50, 'Tecnologia da Informação');
 INSERT INTO Empresas (id, endereco, num_alunos, area)
-VALUES (2, 'Rua B, 456', 30, 'Engenharia de Produção');
+VALUES (2, 'Rua Barão Japonês, 665', 30, 'Engenharia de Produção');
+INSERT INTO Empresas (id, endereco, num_alunos, area)
+VALUES (3, 'Av. Otavio Tanquinho, 946', 70, 'Analise de Dados');
 
 INSERT INTO Tecnologia (nome, id)
 VALUES ('Python', 1 );
